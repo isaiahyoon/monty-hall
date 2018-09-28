@@ -1,1 +1,3 @@
-# It was challenging wrapping my head around the reality of the Monty Hall problem. I decided to programmatically verify its results here.
+# Late Night Conversations
+
+##### It was challenging wrapping my head around the reality of the Monty Hall problem, when discussing with a friend late into the night. I decided to programmatically verify its results here.
