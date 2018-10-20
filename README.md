@@ -1,10 +1,12 @@
 # Testing Interesting Probability Concepts
 
 This is a compilation of interesting probabilistic concepts that I wanted to verify for myself.
+
 To run any script locally, assuming you have any version of Python 3 installed, do:
 ```
 python {script_name}.py
 ```
+Note that you can tweak the iterations / sample sizes for a given concept by modifying the last lines of each script.
 
 ## Late Night Conversations
 
