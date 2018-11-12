@@ -1,5 +1,6 @@
 import random
 
+
 def monty_hall(iterations):
     hits = 0
     for i in range(iterations):
@@ -22,7 +23,7 @@ def monty_hall(iterations):
         print('revealed: ' + str(revealed))
         print('prize ' + str(prize))
         print('=====================')
-        
+
         if choices[0] == prize:
             hits += 1
 
